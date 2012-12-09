@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SDN.LazyWork.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLConn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">integrated security=SSPI;data source=SADIST\MASOCHISTSQL;persist security info=True;initial catalog=Northwind</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
